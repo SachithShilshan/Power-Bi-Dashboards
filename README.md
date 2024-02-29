@@ -13,8 +13,8 @@ The dashboard allows the user to filter data by year, month, customer, style and
 
 ## Pre-Order Analysis – Overview
 
-![image](https://github.com/SachithShilshan/Power-Bi-Dashboards/assets/91172509/b0e34ef0-42d7-43ef-9861-e4731b3c3ec3)
-­
+
+![image](https://github.com/SachithShilshan/Power-Bi-Dashboards/assets/91172509/233ea480-4245-441f-ac54-c6d5f7950bce)
 
 
 1. This table shows the Order quantity, SMV, Standard hours, Sales Value, FOB per hour, Order qty per Style, Customer Styles, Earnings, EPH, Budget EPH and SFC EPH for each customer.
