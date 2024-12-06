@@ -1,13 +1,11 @@
 # Power BI Dashboard: Pre & Post Order Analysis Dashboard
 
 This document provides an overview of the Power BI dashboard created to analyze the Pre & Post Order Analysis . The dashboard includes various data visualizations and analytics that offer insights into Pre & Post – Overview ,RMC Breakdown ,EPH Forecast ,Trend Analysis ,Style Repeat ,Product Analysis and EPH,SMV-Comparison.
+![image](https://github.com/user-attachments/assets/c7617672-b6d1-4cb3-a3c7-91149de5ae42)
 
-Pre-Order Dashboard Link :
+![image](https://github.com/user-attachments/assets/b5365f56-a701-4dcf-8fbd-9c5128ebc394)
 
-
-Data Source:
-
-The dashboard allows the user to filter data by year, month, customer, style and plant.
+![image](https://github.com/user-attachments/assets/e0708d59-681c-489c-9485-bc230bf255ae)
 
 # Pre-Order Analysis
 
